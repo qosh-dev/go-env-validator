@@ -1,4 +1,4 @@
-# Project Name
+# Golang env validator example
 
 This project is a small application that reads values from a .env file and validates them against a schema specified in the file located at <code>./config/.env</code>.
 
